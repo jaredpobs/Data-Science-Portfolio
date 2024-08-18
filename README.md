@@ -1,1 +1,1 @@
-Project 1: Factors and Predicting Student Grades
+## Project 1: Factors and Predicting Student Grades
