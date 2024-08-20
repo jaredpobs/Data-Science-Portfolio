@@ -6,7 +6,7 @@
 - Discovered that health, study time, and absences had minimal impact on student performance, contrary to initial expectations.
 
 ## Project 2: Detecting People Using Their Phones While Walking
-- Developed a computer vision system to detect pedestrians using their phones while walking, leveraging the YOLOv9 object detection algorithm within Google Colab.
+- Developed a computer vision system to detect pedestrians and pedestrians using their phones while walking, leveraging the YOLOv9 object detection algorithm within Google Colab.
 - Utilized Roboflow for streamlined dataset management and employed pre-trained weights to speed up model development.
 - Trained and fine-tuned a YOLOv9 model on a custom dataset, achieving a mean Average Precision (mAP) of 91.3%.
 - Visualized detection results by overlaying bounding boxes on images, showcasing the model's capability to precisely locate and classify individuals using their phones while walking.
